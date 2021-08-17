@@ -1,7 +1,7 @@
 ### Olá eu sou o Vitor, seja bem vindo ao meu GithHub 👋
 
 - 🔭 Hoje trabalho com Python e Pyspark
-- 🌱 Estudando Django
+- 🌱 Estudando o framework Django
 
 <div>
   <a href="https://github.com/vitor9998">
